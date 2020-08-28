@@ -1,8 +1,8 @@
 
-# CRUD_crear_proyectos
+# Login en laravel sin contraseña
 
 ### Descripción
-crear proyectos,editarlos, eliminarlos y actualizarlos. Esta la función de poder iniciar sesión y poder agregar imágenes a los proyectos, se agregaron sistemas de roles para crear los proyectos y poder restablecer un proyecto ya borrado, también la seccionar los proyectos por categorías. Aprende Laravel intermedio.
+login en laravel sin contraseña, la autentificación va a ser vía correo electrónico cuando te registras con tu correo te va a llegar un mensaje en el cual contiene el token que te permitirá autentificarte
 
 ## Imagenes
 
