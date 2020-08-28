@@ -2,7 +2,7 @@
 # Login en laravel sin contraseña
 
 ### Descripción
-login en laravel sin contraseña, la autentificación va a ser vía correo electrónico cuando te registras con tu correo te va a llegar un mensaje en el cual contiene el token que te permitirá autentificarte
+login en laravel sin contraseña, la autentificación va a ser vía correo electrónico cuando te registras con tu correo te va a llegar un mensaje el cual contiene el token que te permitirá autentificarte
 
 ## Imagenes
 
